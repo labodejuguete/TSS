@@ -12,8 +12,8 @@
 
 Idea y concepto: Laboratorio de Juguete
 
-Código: [Lucas Leal](https://www.instagram.com/lucas.__.leal/?hl=en)
+Diseño de software: [Lucas Leal](https://www.instagram.com/lucas.__.leal/?hl=en)
 
-Diseño y construcción: Jorge Crowe
+Diseño de hardware: Jorge Crowe
 
 
