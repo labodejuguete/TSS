@@ -1,8 +1,6 @@
 # TSS
 ## TSS (Tocar la Sombra del Sonido) es un circuito sonoro con interfaz táctil/lumínica basado en Raspberry Pi Pico
-
  ![alt tag](https://github.com/labodejuguete/EME/blob/main/eme.jpg)
-
 ### Características:
 + Interfaz tipo Groovebox
 +  partes individuales con Mute
