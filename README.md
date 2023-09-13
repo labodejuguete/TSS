@@ -2,18 +2,13 @@
 ## TSS (Tocar la Sombra del Sonido) es un circuito sonoro con interfaz táctil/lumínica basado en Raspberry Pi Pico
  ![alt tag](https://github.com/labodejuguete/EME/blob/main/eme.jpg)
 ### Características:
-+ Interfaz tipo Groovebox
-+  partes individuales con Mute
-+ 16 pasos por parte (cantidad de pasos configurable individualmente)
-+ Control de gate configurable por parte (25%, 50%,75% y 100%)
-+ Subdivisor de tempo configurable por parte (polirritmia)
-+ 4 direcciones de secuenciado: adelante, atrás, adelante&atrás ("ping-pong"), random.
-+ Sincronización (IN y OUT) compatible con Volca, Beatstep, Pocket Operator, etc.
++ La superficie táctil de cobre genera variaciones de frecuencia en una señal de onda triangular, acompañada de tres ecos
 
 Idea y concepto: Laboratorio de Juguete
 
-Diseño de software: [Lucas Leal](https://www.instagram.com/lucas.__.leal/?hl=en)
+Diseño de software: [Lucas Leal](https://www.instagram.com/lucas.__.leal/?hl=en) basado en la librería [MOZZI](https://github.com/sensorium/Mozzi)
 
 Diseño de hardware: Jorge Crowe
+Cianotipo de base: Paloma Pollán
 
 
